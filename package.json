@@ -2,9 +2,9 @@
   "name": "ota-api-engine",
   "version": "1.0.0",
   "description": "In-Bus Entertainment OTA Serverless API",
-  "main": "api/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node api/index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "cloudinary": "^2.2.0",
